@@ -1,6 +1,6 @@
 -- Based on the gen 3 Lua script by FractalFusion
 -- Modified by EverOddish for automatic image updates
-local game=3 --see below
+local game=1 --see below
 local startvalue=0x83ED --insert the first value of RNG
 
 -- These are all the possible key names: [keys]
